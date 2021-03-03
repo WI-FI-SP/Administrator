@@ -1,0 +1,14 @@
+ </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+
+
+
+echo "# Administrator" >> README.md 
+git init 
+git tambahkan README.md 
+git commit -m "komit pertama" 
+git branch -M main 
+git remote tambahkan asal https://github.com/avatarbuss/Administrator.git
+ git push - u asal utama
+
+git remote tambahkan asal https://github.com/avatarbuss/A
+
